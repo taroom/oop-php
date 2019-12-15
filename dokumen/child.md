@@ -19,3 +19,16 @@ hasil contoh penggunaan : [inherit.php](../demo/inherit.php)
 ## Construct
 
 ## Destruct
+
+## Override
+adalah kondisi dimana atribut dan method dari kelas asal diganti di kelas baru
+
+## 'final'
+adalah kondisi dimana atribut dan method dari kelas awal tidak dapat digantikan di kelas baru, karena kata kunci final ini
+
+## 'static'
+adalah kondisi dimana atribut dan method dari kelas dapat diakses secara langsung tanpa perlu membuat objek terlebih dahulu [**Lihat pada bagian instance**](index.md)
+
+## Constant
+
+
