@@ -13,3 +13,12 @@ class kelasku {
 }
 ```
 kode diatas adalah contoh untuk membuat sebuah class dengan nama **kelasku** 
+
+## Instance
+setelah kita membuat kelas kita bisa membuat objek dari kelas tersebut dengan cara
+
+```php
+$objek = new kelasku;
+//atau
+$objek = new kelasku();
+```
