@@ -6,17 +6,17 @@
 
 OOP menganggap semua adalah benda, benda memiliki atribut (seperti nama, alamat-rumah, usia, tanggal_lahir dsb) dan memiliki method (berjalan, makan, minum)
 
-## Class
-kita bisa memulai dengan menggunakan class penulisannya seperti ini
+## Class (membuat blueprint)
+kita bisa memulai OOP dengan menggunakan class penulisannya seperti ini
 
 ```php
 class kelasku {
 
 }
 ```
-kode diatas adalah contoh untuk membuat sebuah class dengan nama **kelasku** 
+kode diatas adalah contoh untuk membuat sebuah class dengan nama **kelasku**, bisa kita analogikan bahwa kelas adalah semacam stempel di dunia nyata, cukup satu kali membuat stempel kita bisa membuat banyak kopian (objek) dari stempel tersebut
 
-## Instance
+## Instance (membuat objek)
 setelah kita membuat kelas kita bisa membuat objek dari kelas tersebut dengan cara
 
 ```php
