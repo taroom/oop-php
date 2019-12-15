@@ -27,12 +27,15 @@ $objek = new kelasku();
 
 ## Modifier
 adalah bagaimana atribut/method diakses, ada beberapa modifier yang dapat digunakan dalam php
-* private
-* protected
-* public
+* private (hanya bisa diakses didalam kelas saja)
+* protected (sama seperti private, namun ikut terwarisi ketika kelas lain meng-extend)
+* public (bisa diakses dimana saja, baik diluar kelas maupun didalam kelas)
 
 dimana masing-masing memiliki batasannya, contoh penggunaan : [class.php](../demo/class.php)
 
 hasil :
 
 ![class.php demo](../pic/as.png)
+
+reference :
+* [https://www.w3schools.com/php/php_oop_access_modifiers.asp]
