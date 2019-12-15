@@ -12,6 +12,9 @@ class kelasB extends kelasA {
 ```
 
 dengan begitu maka kelas B sudah mewarisi kelas A
+hasil 
+
+![class.php demo](../pic/as.png)
 
 ## Construct
 
