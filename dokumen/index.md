@@ -29,4 +29,4 @@ adalah bagaimana atribut/method diakses, ada beberapa modifier yang dapat diguna
 * protected
 * public
 
-dimana masing-masing memiliki batasannya [class.php](../demo/class.php)
+dimana masing-masing memiliki batasannya, contoh penggunaan : [class.php](../demo/class.php)
