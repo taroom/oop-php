@@ -22,3 +22,11 @@ $objek = new kelasku;
 //atau
 $objek = new kelasku();
 ```
+
+## Modifier
+adalah bagaimana atribut/method diakses, ada beberapa modifier yang dapat digunakan dalam php
+* private
+* protected
+* public
+
+dimana masing-masing memiliki batasannya
