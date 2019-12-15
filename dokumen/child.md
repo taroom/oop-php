@@ -27,7 +27,7 @@ adalah kondisi dimana atribut dan method dari kelas asal diganti di kelas baru
 adalah kondisi dimana atribut dan method dari kelas awal tidak dapat digantikan di kelas baru, karena kata kunci final ini
 
 ## 'static'
-adalah kondisi dimana atribut dan method dari kelas dapat diakses secara langsung tanpa perlu membuat objek terlebih dahulu [**Lihat pada bagian instance**](index.md)
+adalah kondisi dimana atribut dan method dari kelas dapat diakses secara langsung tanpa perlu membuat objek terlebih dahulu [**Lihat pada bagian instance**](index.md#instance-membuat-objek)
 
 ## Constant
 
