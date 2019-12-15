@@ -30,3 +30,4 @@ adalah bagaimana atribut/method diakses, ada beberapa modifier yang dapat diguna
 * public
 
 dimana masing-masing memiliki batasannya
+contoh : [](../demo/class.php)
