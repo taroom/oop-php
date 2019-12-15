@@ -30,3 +30,5 @@ adalah bagaimana atribut/method diakses, ada beberapa modifier yang dapat diguna
 * public
 
 dimana masing-masing memiliki batasannya, contoh penggunaan : [class.php](../demo/class.php)
+
+hasil ![class.php demo](../pic/as.png)
