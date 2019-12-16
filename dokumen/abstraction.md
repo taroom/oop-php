@@ -4,12 +4,24 @@
 
 
 ## tabel perbedaan abstract dan interface
-|    | interface         | abstract          |
-|----|-------------------|-------------------|
-|kode| * abstract method | * abstract method |
-|    | * constant        | * constant		 |
-|    |					 | * atribut konkrit |
-|    |					 | * method konkrit  |
+<table>
+	<tr>
+		<th></th>
+		<th>Interface</th>
+		<th>Abstract</th>
+	</tr>
 
+	<tr>
+		<td>kode</td>
+		<td>
+		* abstract method
+		* constant
+		</td>
+		<td>
+		* abstract method
+		* constant
+		</td>
+	</tr>
+</table>
 
 [https://phpenthusiast.com/object-oriented-php-tutorials/interfaces]
