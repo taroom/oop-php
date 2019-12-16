@@ -10,7 +10,6 @@
 		<th>Interface</th>
 		<th>Abstract</th>
 	</tr>
-
 	<tr>
 		<td>kode</td>
 		<td>
