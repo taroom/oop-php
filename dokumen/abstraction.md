@@ -1,6 +1,11 @@
 ## Abstract
+adalah sebuah parent class yang dimana parent class yang abstract ini mempunyai setidaknya 1 abstract method yang terdeklarasi (namun tidak terimplementasi), dimana isi task (implementasi) dari method tersebut akan dituliskan di class child
+
+(?) masih belum paham kenapa harus ada abstract padahal pakai class langsung bisa
 
 ## Interface
+
+
 
 
 ## tabel perbedaan abstract dan interface
@@ -59,3 +64,4 @@
 </table>
 
 [https://phpenthusiast.com/object-oriented-php-tutorials/interfaces]
+[https://www.w3schools.com/php/php_oop_classes_abstract.asp]
