@@ -62,6 +62,8 @@ adalah sebuah jenis deklarasi kelas yang bersifat seperti class abstract (isi da
 	</tr>
 </table>
 
-[https://phpenthusiast.com/object-oriented-php-tutorials/abstract-classes-and-methods]
-[https://phpenthusiast.com/object-oriented-php-tutorials/interfaces]
-[https://www.w3schools.com/php/php_oop_classes_abstract.asp]
+referensi :
+* [https://phpenthusiast.com/object-oriented-php-tutorials/abstract-classes-and-methods]
+* [https://phpenthusiast.com/object-oriented-php-tutorials/interfaces]
+* [https://www.w3schools.com/php/php_oop_classes_abstract.asp]
+* diskusi di forum programmer whatsapp (untuk memperjelas)
