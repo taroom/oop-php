@@ -1,7 +1,7 @@
 ## Abstract
 adalah sebuah parent class yang dimana parent class yang abstract ini mempunyai setidaknya 1 abstract method yang terdeklarasi (namun tidak terimplementasi), dimana isi task (implementasi) dari method tersebut akan dituliskan di class child
 
-(?) masih belum paham kenapa harus ada abstract padahal pakai class langsung bisa
+class abstract digunakan untuk semacam pedoman/referensi bagi developer agar men-standarkan atribut dan method apa saja yang harus ada ketika class child mewarisi class parent yang abstract. contoh : database ada banyak seperti mysql, mongo, oracle dsb nah kita mau standarisasi nih atributnya seperti nama_database, port dsb lalu methodnya seperti connect() untuk koneksi, query() untuk melakukan querying database dsb. setelah kita buat kelas abstract database maka kita bisa buat child classnya seperti mysql_database, mongo_database, oracle_database yang masing masing kelas child tersebut harus meng-implementasi atribut nama_database, port, connect(), query() di dalam scope kelasnya
 
 ## Interface
 
