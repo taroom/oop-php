@@ -13,12 +13,47 @@
 	<tr>
 		<td>kode</td>
 		<td>
-		* abstract method
-		* constant
+			<ul>
+				<li>abstract method</li>
+				<li>constant</li>
+			</ul>
 		</td>
 		<td>
-		* abstract method
-		* constant
+			<ul>
+				<li>abstract method</li>
+				<li>constant</li>
+				<li>atribut konkrit (?)</li>
+				<li>method konkrit (?)</li>
+			</ul>
+		</td>
+	</tr>
+	<tr>
+		<td>akses modifier</td>
+		<td>
+			<ul>
+				<li>public</li>
+			</ul>
+		</td>
+		<td>
+			<ul>
+				<li>public</li>
+				<li>private</li>
+				<li>protected</li>
+				<li>dll</li>
+			</ul>
+		</td>
+	</tr>
+	<tr>
+		<td>jumlah parent</td>
+		<td>
+			<ul>
+				<li>1 class bisa memiliki banyak interface</li>
+			</ul>
+		</td>
+		<td>
+			<ul>
+				<li>1 class hanya bisa mewarisi 1 abstract class</li>
+			</ul>
 		</td>
 	</tr>
 </table>
