@@ -3,7 +3,7 @@
 * [kembali kehalaman depan](../README.md) 
 * [inheritance](child.md)
 * [abstraksi](abstraction.md)
-* [trait](trait.md)
+* [trait](traits.md)
 
 OOP menganggap semua adalah benda, benda memiliki atribut (seperti nama, alamat-rumah, usia, tanggal_lahir dsb) dan memiliki method (berjalan, makan, minum)
 
